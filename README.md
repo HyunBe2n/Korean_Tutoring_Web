@@ -1,6 +1,6 @@
-# korean_tutoring
+# korean_tutoring_web
 
-A new Flutter project.
+한국어 튜터링 웹사이트 개발
 
 ## Getting Started
 
